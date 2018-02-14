@@ -6,36 +6,3 @@ Program description - Write a program to create a customer's bill for a company.
   
   The input data consist of a set of integers representing the quantities of each item sold. these integers must be input into the program in a user-friendly way; that is, the program must prompt the user for each quantity.
   
- This is the output of the program:
- 
- Welcome! This program creates your bill!
-
-How many TVs were sold? 
-2
-How many VCRs were sold? 
-1
-How many Remote Controllers were sold? 
-4
-How many CDs were sold? 
-1
-How many Tape Recorders were sold? 
-2
-
-QTY      Description     Unit Price      Total Price
----      -----------     ----------      -----------
-
-02       TV                  400.00           800.00 
-01       VCR                 220.00           220.00  
-04       Remote CTRLR         35.20           140.80   
-01       CD Player           300.00           300.00    
-02       Tape Recorder       150.00           300.00     
-
-                                           ---------
-
-                           SUBTOTAL          1760.80   
-                           TAX                145.27    
-                           Total             1906.07     
-
-
-
-                         End of bill
